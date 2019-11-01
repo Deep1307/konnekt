@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "675946485710",
+    "firebase_url": "https://konnekt-2ea05.firebaseio.com",
+    "project_id": "konnekt-2ea05",
+    "storage_bucket": "konnekt-2ea05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675946485710:android:9e97f5060bf72542cd7d9f",
+        "android_client_info": {
+          "package_name": "com.kt.konnekt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675946485710-4c8mjujqd9n8f2qi01felh5dp0b0d6b2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kt.konnekt",
+            "certificate_hash": "842db3e1f2d3dc239e8acc4b9cd3122b2406cec1"
+          }
+        },
+        {
+          "client_id": "675946485710-vpgps2qt0tliqknbotfk15ja6mkvmn9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIQwONgEDBNaU047joszmB9pgprl1dwdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675946485710-vpgps2qt0tliqknbotfk15ja6mkvmn9t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
